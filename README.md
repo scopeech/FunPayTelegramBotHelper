@@ -20,13 +20,13 @@
 1.  Клонируйте репозиторий:
 
     ```bash
-    git clone <your_repository_url>
+    git clone https://github.com/scopeech/FunPayTelegramBotHelper
     ```
 
 2.  Перейдите в каталог проекта:
 
     ```bash
-    cd <your_project_directory>
+    cd FunPayTelegramBotHelper
     ```
 
 3.  Создайте и активируйте виртуальное окружение (рекомендуется):
